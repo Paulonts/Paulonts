@@ -44,20 +44,3 @@ Atualmente explorando mais profundamente **desenvolvimento web com HTML**, e rev
 
 ---
 
-##  Me acompanhe
-
-- [Instagram](https://www.instagram.com/paulo_hjs00) — compartilho aprendizados, bugs engraçados e conquistas! :contentReference[oaicite:2]{index=2}
-
----
-
-###  Dicas extras de estilo:
-
-- Use **emojis** nos títulos e seções para dar um toque mais pessoal.
-- Separe claramente os títulos com `---` ou `##` para facilitar a leitura.
-- Mantenha o texto conciso e evite sobrecarregar com muitos detalhes — o README do perfil deve ser um “teaser” dos seus projetos.
-- Atualize com imagens ou GIFs dos seus projetos em funcionamento, se quiser dar mais vida visual.
-
----
-
-Se quiser, posso te ajudar a montar um **README.md pronto com esse conteúdo personalizado**, só me dizer quais projetos você quer destacar ou se quer mudar alguma parte! 
-::contentReference[oaicite:3]{index=3}
