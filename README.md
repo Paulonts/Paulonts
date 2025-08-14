@@ -1,26 +1,65 @@
-# 🗄️ Banco de Dados com Python
+# 👋 Olá, eu sou o Paulo Henrique (Paulonts)
 
-Este projeto foi criado para estudar e praticar **Banco de Dados com Python**, aplicando conceitos de **CRUD (Create, Read, Update, Delete)** e integração com **SQLite**.
-
----
-
-## 🚀 Funcionalidades
-
-- 📌 Criação de tabelas no banco de dados  
-- ✏️ Inserção de registros  
-- 🔎 Consulta de dados  
-- 📝 Atualização de registros  
-- ❌ Exclusão de registros  
+**Estudante de Sistemas de Informação**, focado em programação e desenvolvimento de software.  
+Sou apaixonado por **Python, C, Java e desenvolvimento web com HTML**, e sempre em busca de aprendizado e criação de projetos significativos.
 
 ---
 
-## 🛠️ Tecnologias usadas
+## 🛠️ Tecnologias que uso
 
-- **Python 3.x**
-- **SQLite (biblioteca padrão do Python - `sqlite3`)**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)  
+![Java](https://img.shields.io/badge/-Java-f89820?logo=java&logoColor=white&style=flat)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
 
 ---
 
-## 📂 Estrutura do projeto
+## 📌 Projetos em destaque
+
+### ✈️ [SistemaDeVoos](https://github.com/Paulonts/SistemaDeVoos) — *C*
+Um sistema de gerenciamento de voos feito em **C**, com foco em **estruturas de dados, organização e lógica de programação**.  
+É o meu projeto mais importante em C e demonstra bem minha base sólida na linguagem.  
+
+---
+
+### 🌐 [Html](https://github.com/Paulonts/Html) — *HTML*
+Repositório dedicado ao **desenvolvimento web**, com estudos, exemplos práticos e evolução no uso de **HTML**.  
+Esse projeto mostra minha jornada em construção de páginas e fundamentos de front-end.  
+
+---
+
+### 🗄️ [BancoDadosPython](https://github.com/Paulonts/BancoDadosPython) — *Python + SQL*
+Projeto dedicado ao **uso de Banco de Dados com Python**, aplicando conceitos de **CRUD, SQLite e integração com aplicações reais**.  
+Esse repositório marca meu avanço em **back-end** e persistência de dados.  
+
+---
+
+| Outros projetos      | Linguagem     | Descrição rápida |
+|----------------------|----------------|------------------|
+| [AprendizadoEmAulaIA](https://github.com/Paulonts/AprendizadoEmAulaIA) | Python | Exercícios e estudos de inteligência artificial |
+| [ProjetoBancoDesafioDio](https://github.com/Paulonts/ProjetoBancoDesafioDio) | Java | Desafio da DIO com implementação de um sistema bancário |
+
+---
+
+## 📊 Estatísticas do meu GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulonts&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulonts&layout=compact&theme=radical)
+
+---
+
+## 📚 O que estou aprendendo agora
+
+- **Banco de Dados com Python** (SQL, SQLite, integração com aplicações)  
+- Aprimorando **desenvolvimento web com HTML**  
+- Revisando fundamentos em **C e Java**  
+- Explorando **Python para aprendizado de máquina/IA**  
+
+---
+
+## 🌍 Me acompanhe
+
+- [Instagram](https://www.instagram.com/paulo_hjs00)  
 
 
