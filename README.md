@@ -1,6 +1,6 @@
 <div align="center" style="font-size:28px;" > 
-  <strong>👋 Olá, eu sou o Paulo Henrique (Paulonts)
-</strong></div>
+  <strong>👋 Olá, eu sou o Paulo Henrique (Paulonts)</strong>
+</div>
 
 
 <div align="center" style="margin: 20px 0;">
