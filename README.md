@@ -17,7 +17,7 @@
 
 ## 📌 Projetos em destaque
 
-### ✈️ [SistemaDeVoos](https://github.com/Paulonts/SistemaDeVoos) — *C*
+### ✈️ [SistemaDeVoos]([https://github.com/Paulonts/SistemaDeVoos](https://github.com/Paulonts/Lab-Prog-2/blob/main/projetofinal/sistema_reserva.c) — *C*
 Um sistema de gerenciamento de voos feito em **C**, com foco em **estruturas de dados, organização e lógica de programação**.  
 É o meu projeto mais importante em C e demonstra bem minha base sólida na linguagem.  
 
