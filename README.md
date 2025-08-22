@@ -1,41 +1,19 @@
 # 👋 Olá, eu sou o Paulo Henrique (Paulonts)
 
-<!-- Container centralizado e responsivo -->
-<div style="max-width: 520px; margin: 24px auto; text-align: center;">
-
-  <!-- Cartão com sombra -->
-  <div style="
-    padding: 10px;
-    border-radius: 18px;
-    box-shadow: 0 10px 30px rgba(0,0,0,.25);
-    background: linear-gradient(180deg, rgba(255,255,255,.06), rgba(0,0,0,.06));
-    backdrop-filter: blur(4px);
-  ">
-
-    <!-- Vídeo estilizado -->
-    <video
-      src="https://github.com/Paulonts/gif/raw/main/paulo.mp4"
-      autoplay
-      muted
-      loop
-      playsinline
-      controls
-      style="
-        width: 100%;
-        height: auto;
-        border-radius: 14px;
-        display: block;
-        outline: 1px solid rgba(255,255,255,.15);
-      ">
-      <!-- Fallback para GIF caso o vídeo não carregue -->
-      <img src="https://raw.githubusercontent.com/Paulonts/gif/refs/heads/main/0001-0240.gif?token=GHSAT0AAAAAADI4SILBTZX2BJMCQ7U4CES42FIWPCQ" alt="Paulonts" style="width:100%; border-radius:14px;">
-    </video>
-
-    <!-- Legenda opcional -->
-    <div style="font-size: 14px; opacity:.8; margin-top: 8px;">
-      Paulonts — demo animada
-    </div>
-  </div>
+<div align="center" style="margin: 20px 0;">
+  <img 
+    src="[https://github.com/Paulonts/gif/raw/main/0001-0240.gif](https://raw.githubusercontent.com/Paulonts/gif/refs/heads/main/0001-0240.gif?token=GHSAT0AAAAAADI4SILBTZX2BJMCQ7U4CES42FIWPCQ)" 
+    alt="Meu GIF"
+    width="320"
+    style="
+      border-radius: 20px;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.35);
+      border: 2px solid #444;
+    "
+  />
+  <p style="font-size: 14px; color: #888; margin-top: 8px;">
+    ✨ Bem-vindo ao meu perfil ✨
+  </p>
 </div>
 
 "Estudante de Sistemas de Informação, com foco em programação, desenvolvimento de software e banco de dados. Tenho experiência em Python, C, Java e desenvolvimento web com HTML. Estou sempre em busca de aprimorar minhas habilidades por meio de novos projetos e aprendizados."
