@@ -45,6 +45,13 @@ Esse projeto mostra minha jornada em construção de páginas e fundamentos de f
 
 ---
 
+### 🌐 [Java](https://github.com/Paulonts/AprendizadoJavaDio) — *Java*
+Repositório dedicado ao **aprendizado de Java**, com exemplos práticos e exercícios.  
+Esse projeto mostra minha evolução no estudo da linguagem, desde os fundamentos até conceitos de **programação orientada a objetos (POO)**.  
+
+
+---
+
 ### 🗄️ [BancoDadosPython](https://github.com/Paulonts/BancoDadosPython) — *Python + SQL*
 Projeto dedicado ao **uso de Banco de Dados com Python**, aplicando conceitos de **CRUD, SQLite e integração com aplicações reais**.  
 Esse repositório marca meu avanço em **back-end** e persistência de dados.  
