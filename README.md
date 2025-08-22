@@ -3,7 +3,7 @@
   <img 
     src="https://github.com/Paulonts/gif/raw/main/0001-0240.gif" 
     alt="Meu GIF"
-    width="320"
+    width="500"
     style="
       border-radius: 20px;
       box-shadow: 0 8px 20px rgba(0,0,0,0.35);
