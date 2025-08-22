@@ -1,7 +1,13 @@
 # 👋 Olá, eu sou o Paulo Henrique (Paulonts)
 
-**Estudante de Sistemas de Informação**, focado em programação, desenvolvimento de software e Banco de dados.  
-Sou apaixonado por **Python, C, Java e desenvolvimento web com HTML**, e sempre em busca de aprendizado e criação de projetos significativos.
+"Estudante de Sistemas de Informação, com foco em programação, desenvolvimento de software e banco de dados. Tenho experiência em Python, C, Java e desenvolvimento web com HTML. Estou sempre em busca de aprimorar minhas habilidades por meio de novos projetos e aprendizados."
+
+## 🎥 Demonstração de Projeto
+
+Clique na imagem abaixo para assistir ao vídeo no YouTube:
+
+[![Assista ao vídeo](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 
 ---
 
