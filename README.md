@@ -2,22 +2,18 @@
 
 "Estudante de Sistemas de Informação, com foco em programação, desenvolvimento de software e banco de dados. Tenho experiência em Python, C, Java e desenvolvimento web com HTML. Estou sempre em busca de aprimorar minhas habilidades por meio de novos projetos e aprendizados."
 
-## 🎥 Demonstração de Projeto
-
-Clique na imagem abaixo para assistir ao vídeo no YouTube:
-
-[![Assista ao vídeo](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-
 ---
 
 ## 🛠️ Tecnologias que uso
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)  
-![Java](https://img.shields.io/badge/-Java-f89820?logo=java&logoColor=white&style=flat)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
+## 🛠️ Tecnologias que uso
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) 
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat) 
+![Java](https://img.shields.io/badge/-Java-f89820?logo=java&logoColor=white&style=flat) 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+
 
 ---
 
