@@ -1,4 +1,6 @@
 # 👋 Olá, eu sou o Paulo Henrique (Paulonts)
+![Meu GIF](https://raw.githubusercontent.com/Paulonts/gif/refs/heads/main/0001-0240.gif?token=GHSAT0AAAAAADI4SILBTZX2BJMCQ7U4CES42FIWPCQ)
+
 
 "Estudante de Sistemas de Informação, com foco em programação, desenvolvimento de software e banco de dados. Tenho experiência em Python, C, Java e desenvolvimento web com HTML. Estou sempre em busca de aprimorar minhas habilidades por meio de novos projetos e aprendizados."
 
