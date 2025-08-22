@@ -1,4 +1,4 @@
-<div align="center" > <strong>👋 Olá, eu sou o Paulo Henrique (Paulonts)</strong></div>
+<div align="center" > <strong> ##👋 Olá, eu sou o Paulo Henrique (Paulonts)</strong></div>
 ---
 <div align="center" style="margin: 20px 0;">
   <img 
