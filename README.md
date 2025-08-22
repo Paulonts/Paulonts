@@ -2,7 +2,7 @@
 
 <div align="center" style="margin: 20px 0;">
   <img 
-    src="[https://github.com/Paulonts/gif/raw/main/0001-0240.gif](https://raw.githubusercontent.com/Paulonts/gif/refs/heads/main/0001-0240.gif?token=GHSAT0AAAAAADI4SILBTZX2BJMCQ7U4CES42FIWPCQ)" 
+    src="https://github.com/Paulonts/gif/raw/main/0001-0240.gif](https://raw.githubusercontent.com/Paulonts/gif/refs/heads/main/0001-0240.gif?token=GHSAT0AAAAAADI4SILBTZX2BJMCQ7U4CES42FIWPCQ" 
     alt="Meu GIF"
     width="320"
     style="
