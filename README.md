@@ -56,10 +56,6 @@ Esse repositório marca meu avanço em **back-end** e persistência de dados.
 - Revisando fundamentos em **C e Java**  
 - Explorando **Python para aprendizado de máquina/IA**  
 
----
 
-## 🌍 Me acompanhe
-
-- [Instagram](https://www.instagram.com/paulo_hjs00)  
 
 
