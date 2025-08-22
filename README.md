@@ -1,5 +1,7 @@
 <div align="center" style="font-size:50px; margin-bottom:30px;"> 
+  
   <strong>👋 Olá, eu sou o Paulo Henrique (Paulonts)</strong>
+  
 </div>
 
 <div align="center" style="margin: 20px 0;">
