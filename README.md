@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Paulo Henrique (Paulonts)
 
-**Estudante de Sistemas de Informação**, focado em programação e desenvolvimento de software.  
+**Estudante de Sistemas de Informação**, focado em programação, desenvolvimento de software e Banco de dados.  
 Sou apaixonado por **Python, C, Java e desenvolvimento web com HTML**, e sempre em busca de aprendizado e criação de projetos significativos.
 
 ---
@@ -38,7 +38,7 @@ Esse repositório marca meu avanço em **back-end** e persistência de dados.
 | Outros projetos      | Linguagem     | Descrição rápida |
 |----------------------|----------------|------------------|
 | [AprendizadoEmAulaIA](https://github.com/Paulonts/AprendizadoEmAulaIA) | Python | Exercícios e estudos de inteligência artificial |
-| [ProjetoBancoDesafioDio](https://github.com/Paulonts/ProjetoBancoDesafioDio) | Java | Desafio da DIO com implementação de um sistema bancário |
+| [EngenhariaDadosComPython](https://github.com/Paulonts/BancoDadosPython) | Python | curso da dio vinculado com a NTT DATA |
 
 ---
 
