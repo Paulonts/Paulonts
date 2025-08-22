@@ -6,8 +6,6 @@
 
 ## 🛠️ Tecnologias que uso
 
-## 🛠️ Tecnologias que uso
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) 
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat) 
 ![Java](https://img.shields.io/badge/-Java-f89820?logo=java&logoColor=white&style=flat) 
