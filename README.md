@@ -1,6 +1,6 @@
 <div align="center" style="font-size:50px; margin-bottom:30px;"> 
   
-  <strong>👋 Olá, eu sou o Paulo Henrique (Paulonts)</strong>
+  <strong>👋 Olá, eu sou o Paulo Henrique (Paulin)</strong>
   
 </div>
 
